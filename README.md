@@ -9,7 +9,6 @@ For generating 100000 queries,you can input following example command:
 
 '''python3 gen_workload.py column_min_max_vals'''
 
-## References
-
-[1] [Kipf et al., Learned Cardinalities: Estimating Correlated Joins with Deep Learning, 2018](https://arxiv.org/abs/1809.00677)
+References:
+[1] [Kipf et al., Learned Cardinalities: Estimating Correlated Joins with Deep Learning, 2018]
 
